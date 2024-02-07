@@ -1,4 +1,4 @@
-# CYBER-X WHATSAPP BOT
+# MANNO-2.0 WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" alt="GIF" width="600" height="300"/> </p>
 
@@ -86,7 +86,6 @@ This is the result of our team's hard work and our team owns the bot's rights an
 
 ## ⚖️  *MANNO -2.0 DEVELOPER TEAM* *246*  ⚖️
 
-*| **<a href="https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT">**<imag **src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=90 height=90></a>**
-
+| <a href="https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=90 height=90></a>
 |---|---|---|---|---|---|
 
