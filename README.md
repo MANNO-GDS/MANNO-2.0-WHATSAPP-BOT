@@ -24,7 +24,7 @@
 
 1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
+2. Fork the Repo - [Click here](https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
 
@@ -87,5 +87,7 @@ This is the result of our team's hard work and our team owns the bot's rights an
 ## ⚖️  *MANNO -2.0 DEVELOPER TEAM* *246*  ⚖️
 
 | <a href="https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT"><img src="https://telegra.ph/file/fac2e2bad83543610e97f.jpg" width=90 height=90></a>
-|---|---|---|---|---|---|
+|-----|
 
+| <a href="https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT"><img src="https://telegra.ph/file/be783ffc9e6b4e89e720d.jpg" width=90 height=90></a>
+|-----|
