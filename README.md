@@ -22,7 +22,7 @@
 
 ## Heroku Deployment
 
-1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
+1. Scan QR - [Click here](https://cyber-x-qr-3-0.onrender.com)
 
 2. Fork the Repo - [Click here](https://github.com/MANNO-GDS/MANNO-2.0-WHATSAPP-BOT/fork)
 
